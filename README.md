@@ -14,3 +14,7 @@
 [website]: https://ales.rocks
 [linkedin]: https://linkedin.com/in/alesnajmann
 [stackexchange]: https://stackexchange.com/users/140565/littleli
+
+### Stats
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=littleli&show_icons=true&hide_border=true&count_private=true">
