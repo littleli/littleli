@@ -14,8 +14,7 @@
 <br>
 <br>
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=littleli&show_icons=true&hide_border=false&count_private=true">
-
+![Littleli's Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=littleli&show_icons=true&hide_border=false&count_private=true)
 
 [website]: https://ales.rocks
 [linkedin]: https://linkedin.com/in/alesnajmann
