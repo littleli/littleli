@@ -7,9 +7,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ales.rocks" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Aleš Najmann | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aleš Najmann | Stack Exchange" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackexchange.svg" />][stackexchange]
+[<img align="left" alt="ales.rocks" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Aleš Najmann | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aleš Najmann | Stack Exchange" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackexchange.svg" />][stackexchange]
 
 <br>
 <br>
