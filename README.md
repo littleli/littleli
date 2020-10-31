@@ -1,16 +1,16 @@
-### Hi there 👋
+## Welcome visitor. My name is Aleš
 
-<!--
-**littleli/littleli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a software architect and developer
+- I'm a functional programming apprentice
+- I'm highly pragmatic
+- I'm a curious creature
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="ales.rocks" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Aleš Najmann | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aleš Najmann | Stack Exchange" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackexchange.svg" />][stackexchange]
+
+[website]: https://ales.rocks
+[linkedin]: https://linkedin.com/in/alesnajmann
+[stackexchange]: https://stackexchange.com/users/140565/littleli
