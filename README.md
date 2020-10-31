@@ -11,8 +11,12 @@
 [<img align="left" alt="Aleš Najmann | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aleš Najmann | Stack Exchange" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackexchange.svg" />][stackexchange]
 
+<br>
+<br>
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=littleli&show_icons=true&hide_border=false&count_private=true">
+
+
 [website]: https://ales.rocks
 [linkedin]: https://linkedin.com/in/alesnajmann
 [stackexchange]: https://stackexchange.com/users/140565/littleli
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=littleli&show_icons=true&hide_border=false&count_private=true">
