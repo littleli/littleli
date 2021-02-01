@@ -1,6 +1,6 @@
 ## Welcome visitor. My name is Aleš
 
-- I'm a software architect and developer
+- I'm a software craftsman
 - I'm a functional programming apprentice
 - I'm highly pragmatic
 - I'm a curious creature
