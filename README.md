@@ -7,11 +7,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ales.rocks" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Aleš Najmann | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aleš Najmann | Stack Exchange" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackexchange.svg" />][stackexchange]
+[website] | [linkedin] | [stackexchange]
 
-<br>
 <br>
 
 ![Littleli's Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=littleli&show_icons=true&hide_border=false&count_private=true)
