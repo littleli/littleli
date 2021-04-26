@@ -1,9 +1,12 @@
-## Welcome visitor. My name is Aleš
+## Welcome visitor
 
-- I'm a software craftsman
-- I'm a functional programming apprentice
-- I'm highly pragmatic
-- I'm a curious creature
+You ended up on the profile of a software craftsman
+
+I'm into functional programming
+
+I prefer practice over theory
+
+I build things out of curiosity
 
 ### Connect with me:
 
