@@ -14,8 +14,6 @@ I build things out of curiosity
 
 <br>
 
-![Littleli's Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=littleli&show_icons=true&hide_border=false&count_private=true)
-
 [website]: https://ales.rocks
 [linkedin]: https://linkedin.com/in/alesnajmann
 [stackexchange]: https://stackexchange.com/users/140565/littleli
