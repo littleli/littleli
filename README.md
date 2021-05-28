@@ -2,9 +2,9 @@
 
 You ended up on the profile of a software craftsman
 
-I'm into functional programming
-I prefer practice over theory
-I build things out of curiosity
+- I'm into functional programming
+- I prefer practice over theory
+- I build things out of curiosity
 
 ### Connect with me:
 
