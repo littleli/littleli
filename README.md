@@ -8,7 +8,7 @@ You ended up on the profile of a software craftsman
 
 ### Connect with me:
 
-[website] | [linkedin] | [stackexchange]
+[website] | [linkedin]
 
 [website]: https://ales.rocks
 [linkedin]: https://linkedin.com/in/alesrocks
