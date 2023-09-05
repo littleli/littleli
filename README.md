@@ -11,5 +11,4 @@ You ended up on the profile of a software craftsman
 [website] | [linkedin] | [stackexchange]
 
 [website]: https://ales.rocks
-[linkedin]: https://linkedin.com/in/alesnajmann
-[stackexchange]: https://stackexchange.com/users/140565/littleli
+[linkedin]: https://linkedin.com/in/alesrocks
