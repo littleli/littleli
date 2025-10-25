@@ -1,10 +1,6 @@
 ## Welcome visitor
 
-You ended up on the profile of a software craftsman
-
-- I'm into functional programming
-- I prefer practice over theory
-- I build things out of curiosity
+You ended up on the profile of a software craftsman.
 
 ### Connect with me:
 
